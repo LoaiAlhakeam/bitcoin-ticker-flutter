@@ -1,4 +1,4 @@
-package co.appbrewery.flutter_app;
+package co.appbrewery.bitcointicker;
 
 import io.flutter.embedding.android.FlutterActivity;
 
